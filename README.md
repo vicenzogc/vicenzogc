@@ -1,8 +1,43 @@
-## Olá Pessoas :D
 
-**Prazer! Meu nome é _Vicenzo Gabriel_, tenho 19 anos. E Seja Bem-Vindo(a) ao meu Perfil!**
+### *English*
+# Hello, I am Vicenzo!👋
 
-## Sobre Mim
+- Welcome to my Git Hub profile, which contains all the information related to my professional career as a developer.
 
-- Me utilizo de um computador desde meus _7 anos_. Depois de anos que fui conhecer a **Área de T.I**
-- ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=vicenzogc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🚀 About me
+
+My name is Vicenzo Gabriel, I'm 19 years old, I live in Brazil, PE.
+
+I love technology and how it can help people in different ways to bring quality of life to everyone.
+I study programming to acquire knowledge, creativity and innovation through my _skills_ and _experiences_.
+
+## 🛠 Skills
+- I have skills with: Git, Unix & Shell, Python
+- I'm studying: HTML, CSS and Javascript
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicenzocardoso/)
+[![Instagram](https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vihdev/)
+
+___________________________________________________________
+
+### *Português*
+# Olá, aqui é o Vicenzo!👋
+
+- Seja bem-vindo(a) ao meu perfil do Git Hub, aqui estão contidas todas todas as informações relacionadas a minha carreira profissional como pessoa desenvolvedora.
+
+
+## 🚀 Sobre mim
+
+Meu nome é Vicenzo Gabriel, tenho 19 anos, moro no Brasil, PE.
+
+Eu amo a tecnologia e como ela pode ajudar as pessoas de diversas formas para trazer qualidade de vida para todos.
+Estudo programação para adquirir conhecimento, criatividade e inovação através das minhas _habilidades_ e _experiências_.
+
+## 🛠 Habilidades
+- Tenho habilidades com: Git, Unix & Shell, Python
+- Estou estudando: HTML, CSS e Javascriptipt
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicenzocardoso/)
+[![Instagram](https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vihdev/)
+
